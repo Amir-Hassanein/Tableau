@@ -1,3 +1,6 @@
+![64146464](https://github.com/user-attachments/assets/08eae193-a320-4943-8beb-24d472fdda82)
+
+
 ## Project Introduction
 
 * In this project, you’ll have the opportunity to combine a lot of what you’ve learned throughout this entire program. This project may seem challenging, and there isn’t a lot of guidance provided, as we want you to have the freedom to be creative. That dataset that you are working with is real, and it is pretty big. When you are an analyst for a company, there often isn’t guidance on how to correctly answer a particular question. And there might not really be one right answer. Leverage your skills. Make sure you look through the directions carefully.
